@@ -1,5 +1,15 @@
-### Hi there 👋
+### 👋 Hi, I'm Júlia!
+I'm a passionate developer from Brazil, BR.
 
+About me
+
+💼 Looking for a position as a Back End Developer
+
+📈 Studied Systems Analysis and Development at the University Catolica de Brasília, Brasília - Brasil. 
+
+❤️ Currently learning about fullstack development and cyber security
+
+[![Júlia's GitHub stats](https://github-stats-extended.vercel.app/api?username=rosa-julia&theme=ambient_gradient&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **rosa-julia/rosa-julia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
