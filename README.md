@@ -6,9 +6,9 @@ I'm a passionate Junior Developer working and learning from Brazil, BR.
 
 ## About me
 
-⭐ Looking for a position as a Back End Developer.
+👩🏻‍💻 Looking for a position as a Back End Developer.
 
-👩🏻‍💻 Studied Systems Analysis and Development at the University Catolica de Brasília, Brasília - Brasil. 
+🌷 Studied Systems Analysis and Development at the University Catolica de Brasília, Brasília - Brasil. 
 
 💭 Currently learning about Fullstack Development and Cyber Security.
 
